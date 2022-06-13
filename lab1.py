@@ -5,4 +5,10 @@ def calculate_age ():
     current_year = 2022
     age = birth_year - current_year
     return age
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
     
